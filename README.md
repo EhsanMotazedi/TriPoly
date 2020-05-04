@@ -41,7 +41,7 @@ Download:
 =====================
 The software is available at gitlab, Wageningen UR:
 
-git clone git@git.wageningenur.nl:motaz001/TriPoly.git —recursive
+www.bif.wur.nl
 
 Copyright and License:
 =====================
